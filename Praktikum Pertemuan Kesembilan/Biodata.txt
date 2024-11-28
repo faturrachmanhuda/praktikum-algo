@@ -1,0 +1,5 @@
+Nama: FATUR
+Umur: S
+Alamat: S
+Email: S
+Dosen Wali: S
